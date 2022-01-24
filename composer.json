@@ -1,0 +1,26 @@
+{
+    "name": "invxero/invxero",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://repo.packagist.org"
+        },
+        "0": {
+            "type": "composer",
+            "url": "https://repo.packagist.org"
+        }
+    },
+    "require": {
+            "php": "^7.4|^8.1.1",
+            "phpunit/dbunit": "4.0.0"
+    },
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "bobreid",
+            "email": "Blake.Collins@protonmail.com"
+        }
+    ]
+}
